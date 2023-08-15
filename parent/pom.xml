@@ -62,7 +62,7 @@
     <!-- latest release version of this plugin. Used in the docs.-->
     <fabric8.maven.plugin.version>3.5.25</fabric8.maven.plugin.version>
 
-    <version.maven>3.3.1</version.maven>
+    <version.maven>3.8.1</version.maven>
     <version.jacoco>0.7.8</version.jacoco>
     <version.fabric8>2.3.4</version.fabric8>
     <version.kubernetes-client>2.6.1</version.kubernetes-client>
